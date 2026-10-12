@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Firefox",
+    "category": "Web Browsers",
+    "packages": {
+      "pacman": "firefox",
+      "apt": "firefox",
+      "dnf": "firefox"
+    }
+  },
+  {
+    "name": "Google Chrome",
+    "category": "Web Browsers",
+    "packages": {
+      "pacman": "google-chrome",
+      "apt": "google-chrome-stable",
+      "dnf": "google-chrome-stable"
+    }
+  },
+  {
+    "name": "Brave",
+    "category": "Web Browsers",
+    "packages": {
+      "pacman": "brave-bin",
+      "apt": "brave-browser",
+      "dnf": "brave-browser"
+    }
+  },
+  {
+    "name": "Chromium",
+    "category": "Web Browsers",
+    "packages": {
+      "pacman": "chromium",
+      "apt": "chromium",
+      "dnf": "chromium"
+    }
+  },
+  {
+    "name": "Tor Browser",
+    "category": "Web Browsers",
+    "packages": {
+      "pacman": "torbrowser-launcher",
+      "apt": "torbrowser-launcher",
+      "dnf": "torbrowser-launcher"
+    }
+  },
+  {
+    "name": "Discord",
+    "category": "Social",
+    "packages": {
+      "pacman": "discord",
+      "apt": "discord",
+      "dnf": "discord"
+    }
+  },
+  {
+    "name": "Telegram",
+    "category": "Social",
+    "packages": {
+      "pacman": "telegram-desktop",
+      "apt": "telegram-desktop",
+      "dnf": "telegram-desktop"
+    }
+  },
+  {
+    "name": "Signal",
+    "category": "Social",
+    "packages": {
+      "pacman": "signal-desktop",
+      "apt": "signal-desktop",
+      "dnf": "signal-desktop"
+    }
+  },
+  {
+    "name": "Steam",
+    "category": "Gaming",
+    "packages": {
+      "pacman": "steam",
+      "apt": "steam",
+      "dnf": "steam"
+    }
+  },
+  {
+    "name": "Heroic Games Launcher",
+    "category": "Gaming",
+    "packages": {
+      "pacman": "heroic-games-launcher-bin",
+      "apt": "heroic-games-launcher",
+      "dnf": "heroic-games-launcher"
+    }
+  },
+  {
+    "name": "Lutris",
+    "category": "Gaming",
+    "packages": {
+      "pacman": "lutris",
+      "apt": "lutris",
+      "dnf": "lutris"
+    }
+  },
+  {
+    "name": "Wine",
+    "category": "Gaming",
+    "packages": {
+      "pacman": "wine",
+      "apt": "wine",
+      "dnf": "wine"
+    }
+  },
+  {
+    "name": "GameMode",
+    "category": "Gaming",
+    "packages": {
+      "pacman": "gamemode lib32-gamemode",
+      "apt": "gamemode",
+      "dnf": "gamemode"
+    }
+  },
+  {
+    "name": "MangoHud",
+    "category": "Gaming",
+    "packages": {
+      "pacman": "mangohud lib32-mangohud",
+      "apt": "mangohud",
+      "dnf": "mangohud"
+    }
+  },
+  {
+    "name": "CachyOS Gaming Meta",
+    "category": "Gaming",
+    "packages": {
+      "pacman": "cachyos-gaming-meta",
+      "apt": "gamemode mangohud",
+      "dnf": "gamemode mangohud"
+    }
+  },
+  {
+    "name": "GIMP (Photoshop Alternative)",
+    "category": "Creativity",
+    "packages": {
+      "pacman": "gimp",
+      "apt": "gimp",
+      "dnf": "gimp"
+    }
+  },
+  {
+    "name": "Krita (Digital Painting)",
+    "category": "Creativity",
+    "packages": {
+      "pacman": "krita",
+      "apt": "krita",
+      "dnf": "krita"
+    }
+  },
+  {
+    "name": "Inkscape (Illustrator Alternative)",
+    "category": "Creativity",
+    "packages": {
+      "pacman": "inkscape",
+      "apt": "inkscape",
+      "dnf": "inkscape"
+    }
+  },
+  {
+    "name": "Kdenlive (Premiere Pro Alternative)",
+    "category": "Creativity",
+    "packages": {
+      "pacman": "kdenlive",
+      "apt": "kdenlive",
+      "dnf": "kdenlive"
+    }
+  },
+  {
+    "name": "Blender (After Effects Alternative)",
+    "category": "Creativity",
+    "packages": {
+      "pacman": "blender",
+      "apt": "blender",
+      "dnf": "blender"
+    }
+  },
+  {
+    "name": "Audacity (Audition Alternative)",
+    "category": "Creativity",
+    "packages": {
+      "pacman": "audacity",
+      "apt": "audacity",
+      "dnf": "audacity"
+    }
+  },
+  {
+    "name": "VS Code",
+    "category": "Development",
+    "packages": {
+      "pacman": "code",
+      "apt": "code",
+      "dnf": "code"
+    }
+  },
+  {
+    "name": "Git",
+    "category": "Development",
+    "packages": {
+      "pacman": "git",
+      "apt": "git",
+      "dnf": "git"
+    }
+  },
+  {
+    "name": "Neovim",
+    "category": "Development",
+    "packages": {
+      "pacman": "neovim",
+      "apt": "neovim",
+      "dnf": "neovim"
+    }
+  },
+  {
+    "name": "OBS Studio",
+    "category": "Utilities",
+    "packages": {
+      "pacman": "obs-studio",
+      "apt": "obs-studio",
+      "dnf": "obs-studio"
+    }
+  },
+  {
+    "name": "qBittorrent",
+    "category": "Utilities",
+    "packages": {
+      "pacman": "qbittorrent",
+      "apt": "qbittorrent",
+      "dnf": "qbittorrent"
+    }
+  },
+  {
+    "name": "VLC Media Player",
+    "category": "Utilities",
+    "packages": {
+      "pacman": "vlc",
+      "apt": "vlc",
+      "dnf": "vlc"
+    }
+  },
+  {
+    "name": "Spotify",
+    "category": "Utilities",
+    "packages": {
+      "pacman": "spotify-launcher",
+      "apt": "spotify-client",
+      "dnf": "spotify-client"
+    }
+  },
+  {
+    "name": "Bitwarden",
+    "category": "Utilities",
+    "packages": {
+      "pacman": "bitwarden",
+      "apt": "bitwarden",
+      "dnf": "bitwarden"
+    }
+  },
+  {
+    "name": "LibreOffice",
+    "category": "Utilities",
+    "packages": {
+      "pacman": "libreoffice-fresh",
+      "apt": "libreoffice",
+      "dnf": "libreoffice"
+    }
+  },
+  {
+    "name": "Bottles",
+    "category": "Utilities",
+    "packages": {
+      "pacman": "bottles",
+      "apt": "bottles",
+      "dnf": "bottles"
+    }
+  },
+  {
+    "name": "Htop",
+    "category": "Utilities",
+    "packages": {
+      "pacman": "htop",
+      "apt": "htop",
+      "dnf": "htop"
+    }
+  },
+  {
+    "name": "Curl",
+    "category": "Utilities",
+    "packages": {
+      "pacman": "curl",
+      "apt": "curl",
+      "dnf": "curl"
+    }
+  }
+]
